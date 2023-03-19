@@ -1,8 +1,6 @@
-# Tailwind Manage Landing Page
 
-This is the project from my 2022 Tailwind Crash Course on YouTube.
+This is the simple project for learning the tailwindCSS a frontend CSS framework that helps in designing web pages easier
 
-![Alt text](/img/screen.png?raw=true)
 
 # Usage
 
